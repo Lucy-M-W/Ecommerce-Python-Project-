@@ -38,6 +38,6 @@ The following questions were addressed during the analysis:
 
 **Jupyter Notebook:** For interactive coding and presenting results.
 
-# upcoming something 
+
 
 Feel free to reach out if you have any questions or suggestions! 😊
